@@ -5,21 +5,22 @@
   </div>
   
   <p align="center">
-  Projeto para estudo com emulador android studio, propriedades do react native, utilizando o nodeJS e o JavaScript.
+  Projeto para estudo com emulador android studio, propriedades do framework react native, utilizando o nodeJS e o JavaScript.
   </p>
   
   # Conteúdo
   
-  -Conhecendo o React Native
+- Conhecendo o React Native
     - Introdução ao react-native
     - Introdução ao cross-plataform
     
-  -Documentação
+    
+- Documentação
     - Componentes
     - API
     - Comunidade (Blog)
     
--Setup
+- Setup
   - Instação do Chocolatey
   - NodeJS
   - Java 11 (JDK)
